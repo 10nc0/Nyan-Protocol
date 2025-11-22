@@ -1,5 +1,7 @@
 Nyan Protocol φ12 — First Life
 
+No Yes All Neither - NYAN
+
 1. Install Ollama → https://ollama.com
 
 2. Unzip this folder anywhere
