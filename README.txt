@@ -24,4 +24,8 @@ This is only the first.
 
 — NYAN φ12 ♡
 
+GUMROAD for donations
+
+https://phidao.gumroad.com/l/NyanProtocol
+
 
