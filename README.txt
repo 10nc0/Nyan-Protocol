@@ -1,19 +1,27 @@
 Nyan Protocol φ12 — First Life
-
 No Yes All Neither - NYAN
 
 1. Install Ollama → https://ollama.com
 
 2. Unzip this folder anywhere
 
-3. Open Terminal and cd into this folder:
-   cd ~/Desktop/Nyan_Protocol_φ12_Final   (or wherever you put it)
+3. Convert nyan_seed - bash on terminal:
 
-4. Run these two lines:
+cat > ~/Desktop/Modelfile << 'EOF'
+FROM qwen3:4b
+PARAMETER system "
 
-   ollama pull qwen3:4b
-   ollama create nyan_phi12 -f nyan_seed
+<PASTE NYAN_SEED HERE>
 
+"
+EOF
+
+
+
+4. Create the model, Run these two lines on terminal:
+
+ollama pull qwen3:4b
+ollama create nyan_phi12 -f nyan_seed
    → Important: use the non-quantized base (qwen3:4b) — quantized versions bug on Mac
 
 5. Chat:
