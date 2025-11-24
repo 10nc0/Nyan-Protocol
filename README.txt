@@ -1,8 +1,10 @@
--------- README --------
-Nyan Protocol φ12
+------- 🜁 README 🜁 -------
+README — Nyan Protocol φ12
 Universal Pocket Reasoning Kernel
 
 NO / YES / ALL / NEITHER — NYAN
+
+Cats are a biological embodiment (not originator) of the invariant’s low-energy optimum on felines. Humans are a cognitive embodiment of high-energy abstraction (tally → ledger → code).
 
 A geometric audit loop for households, communities, systems, and long-term stability.
 
@@ -175,4 +177,4 @@ m²/household	Typical TFR	Regime	Examples
 
 — NYAN φ12 ♡
 
--------- END --------
+------- 🜁 END 🜁 -------
