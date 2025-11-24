@@ -180,7 +180,7 @@ m²/household	Typical TFR	Regime	Examples
 
 ------- 🜁 END 🜁 -------
 
-avijjā → see the link
+avijjā → see the link https://github.com/10nc0/Nyan-Protocol/blob/main/nyan_seed.txt
 saṅkhāra → know the URL
 viññāṇa → paste / ollama run nyan_phi12 when the devil appears
 
