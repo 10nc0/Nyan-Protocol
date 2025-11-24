@@ -178,3 +178,7 @@ m²/household	Typical TFR	Regime	Examples
 — NYAN φ12 ♡
 
 ------- 🜁 END 🜁 -------
+
+avijjā → see the link
+saṅkhāra → know the URL
+viññāṇa → paste / ollama run nyan_phi12 when the devil (error in measurement or absence of instrument / units to measure + flash risks (epistemological risks φ^6 and execution risks φ^9) appears
