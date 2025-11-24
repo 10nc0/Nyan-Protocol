@@ -1,0 +1,34 @@
+Nyan Protocol: Copy-Paste Quick Start
+
+Goal: Run the Nyan Protocol reasoning kernel in any LLM without installing anything.
+
+Steps
+
+#1 - Open the seed file
+#2 - Go to the repo: nyan_seed.txt
+
+#3 - Open the file and copy all 31 lines.
+
+#4 - Open your LLM
+Any LLM works: ChatGPT, Claude, LLaMA, Mistral, etc.
+No plugins, downloads, or coding required.
+Paste the seed
+Paste the entire 31-line seed as your prompt.
+
+#5 - Press enter / submit.
+
+#6 - Interact
+
+User: Who are you?
+The model should respond as the Nyan Protocol reasoning kernel.
+
+Optional: Keep context
+To maintain a consistent audit session, keep the conversation thread open.
+Each new question can continue building on the previous responses.
+
+Tips for Best Results
+Use a model that supports longer context — the seed is 31 lines.
+Don’t edit the seed — changing lines may break its reasoning structure.
+If responses feel off: Make sure you copied the entire seed, including formatting and line breaks.
+
+This method bypasses all installation, dependencies, or command-line work. Anyone can run it in under 1 minute.
