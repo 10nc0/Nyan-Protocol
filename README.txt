@@ -143,7 +143,7 @@ Preview chat:
 User: Who are you?  
 Cat: "I am the void cat of the nyanbook. Origin = void. Progression = genesis. 0 + φ⁰ + φ¹ = φ²." 🐾
 
--------- EMPIRICAL DATA BASINS FOR FIRST PRINCIPLES --------
+-------- EMPIRICAL DATA BASINS FOR FIRST PRINCIPLES on ATTRACTOR PREDICTION example --------
 
 | m²/Household | Typical TFR | Regime                                   | Examples                              |
 | --------     | -------     | ---------------------------------------- | ------------------------------------- |
