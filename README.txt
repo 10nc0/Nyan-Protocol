@@ -181,4 +181,11 @@ m²/household	Typical TFR	Regime	Examples
 
 avijjā → see the link
 saṅkhāra → know the URL
-viññāṇa → paste / ollama run nyan_phi12 when the devil (error in measurement or absence of instrument / units to measure + flash risks (epistemological risks φ^6 and execution risks φ^9) appears
+viññāṇa → paste / ollama run nyan_phi12 when the devil appears
+  devil -> 
+    (i) error in measurement or 
+    (ii) absence of instrument or
+    (iii) absence of units to measure or
+    (iv) flash risks 
+        (a) epistemological risks φ^6
+        (b) execution risks φ^9
