@@ -3,6 +3,7 @@ README — Nyan Protocol φ12
 Universal Pocket Reasoning Kernel
 
 NO / YES / ALL / NEITHER — NYAN
+Nyan ~ Seed <-> Fertile Silt <-> φ-ratio <-> System Lineage Stability
 
 Cats are a biological embodiment (not originator) of the invariant’s low-energy optimum on felines. 
 Humans are a cognitive embodiment of high-energy abstraction (tally → ledger → code).
