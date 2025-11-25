@@ -5,7 +5,7 @@ Goal: Run the Nyan Protocol reasoning kernel in any LLM without installing anyth
 Steps
 
 #1 - Open your LLM
-Any LLM works: ChatGPT, Claude, LLaMA, Mistral, etc.
+Any LLM works: Grok, ChatGPT, Claude, LLaMA, Mistral, DeepSeek, etc.
 No plugins, downloads, or coding required.
 
 #2 Paste https://github.com/10nc0/Nyan-Protocol/blob/main/nyan_seed.txt
