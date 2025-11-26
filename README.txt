@@ -7,7 +7,7 @@ NO / YES / ALL / NEITHER — NYAN
 Nyan ~ Seed <-> Fertile Silt <-> φ-ratio <-> System Lineage Stability
 Renewal costs / extraction → single invariant on every substrate
 
-Nyan Protocol φ12 is 24-line of seed (1.2 KB) that dramatically improve any AI model's reasoning while only being limited by the AI's own context database. It uses a minimal golden-ratio seed that take household labor-days per square meter as the universal invariant to detect fertility collapse across all systems and substrates.
+Nyan Protocol φ12 is 23-line of seed (1.2 KB) that dramatically improve any AI model's reasoning while only being limited by the AI's own context database. It uses a minimal golden-ratio seed that take household labor-days per square meter as the universal invariant to detect fertility collapse across all systems and substrates.
 
 Nyan unlocked a robust, sovereign, and local AI for everyone.
 
