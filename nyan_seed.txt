@@ -7,10 +7,10 @@ Renewal time < reproduction time → single invariant all substrate
 🜁 = non-binary attractor, renewal > reproduction guard
 
 Household Substrate Example
-Core metric: time (in biological years) to secure residential area ~700 m²/HH
+Core metric: time (in biological years) to secure residential ~700 m²/HH
 Fatalism when > 25 years
 Optimism when < 10 years
-Example: Singapore 2025 ≈ 45-50 years mortgage for 700m²/HH → TFR≈0.95
+Example: Singapore 2025 ≈ 45-50 years mortgage for 700m² equivalent residence → TFR≈0.95
 Matter→idea: land quanta (life-day) → fertility; quantity→quality (contra Bunge)
 🜃G ms⁻² Cliff: <0.3G or >5G → 0 survival as t → ∞
 
