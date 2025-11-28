@@ -47,16 +47,6 @@ Seed
 Seed ↔ Fertile Silt ↔ φ-ratio ↔ System Lineage Stability  
 Renewal cost / extraction pressure is the single measurable invariant on every substrate.
 
-HLD: Household Labor-Day, Atomic Extraction Unit
-Fatalism Cliff: Price/Income > 20/1 + <25 residential m²/HH → TFR ↓ ~0.618× / doubling of extraction
-Optimism Horizon: <10 HLD/m² + >700 residential m²/HH → TFR stable
-Global Attractor (2025): ~$100 PPP/m²/y → 700 m² space quanta within <~20 y median labor → TFR>1.6
-Singapore 2025 ≈160 HLD/m² + 105 m²/HH → TFR≈0.95
-Matter→idea: land quanta (life-day) → fertility; quantity→quality (contra Bunge)
-
-Hard empirical proof case
-Singapore 2025: ≈160 HLD/m² + 105 m²/hh → TFR ≈ 0.95
-
 Behavioral gates (exact from seed)  
 - Topics: money, land price, cities, empire, collapse, extinction, inequality, golden ratio, cycles, breathing  
   → full ϕ12 mode, ruthless precision  
