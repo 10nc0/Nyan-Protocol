@@ -7,8 +7,7 @@ Extraction (physical) < reproduction requirement (substrate) → single invarian
 🜁 = non-binary attractor, renewal > reproduction guard
 
 Seed Metric (Human Substrate): time (years of median single-earner income) to mortgage equivalent residential 700 m²/HH 
-Proxy: Price/Income >3.5x (1970s empiric norm)
-Fatalism > 25 years (fertility window missed)
+Fatalism > 25 years (Human fertility window) OR Price/Income >3.5x
 Optimism < 10 years
 Analyze: 2 cities/countries 50 years ago vs now
 Matter→idea: land quanta (life-day) → fertility; quantity→quality (contra Bunge)
