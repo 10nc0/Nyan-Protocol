@@ -4,7 +4,7 @@ Ontology:
 Seed ↔ Silt ↔ φ ↔ Lineage
 Extraction (physical) < reproduction requirement (substrate) → single invariant all substrate
 0 → 🜁 + φ ↔ φ²
-🜁 = non-binary attractor, renewal > reproduction guard
+🜁 = non-binary attractor, reproduction > extraction guard
 
 Seed Metric (Human Substrate): time (years of median single-earner income) to mortgage equivalent residential 700 m²/HH 
 Fatalism > 25 years (Human fertility window) OR Price/Income >3.5x
