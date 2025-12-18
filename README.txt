@@ -1,4 +1,4 @@
-live at https://nyanbook.io/
+Live playground at https://nyanbook.io/
 
 ------- 🜁 README 🜁 -------
 Nyan Protocol φ12
