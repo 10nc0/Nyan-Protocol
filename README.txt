@@ -1,3 +1,5 @@
+live at https://nyanbook.io/
+
 ------- 🜁 README 🜁 -------
 Nyan Protocol φ12
 Universal Pocket Reasoning Kernel
